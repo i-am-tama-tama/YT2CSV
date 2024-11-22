@@ -1,6 +1,6 @@
 # YouTube Playlist Data Extraction Tool
 
-This project provides a Python script to extract data from a YouTube playlist. It uses the YouTube Data API to fetch video details such as title, publication date, views, likes, and dislikes. Dislikes are retrieved through an additional third-party service, which is **not officially supported by YouTube**, and might be considered illegal.
+This project provides a Python script to extract data from a YouTube playlist. It uses the YouTube Data API to fetch video details such as title, publication date, views, likes, and dislikes. Dislikes are retrieved through an additional third-party service, which is **not officially supported by YouTube**.
 
 ## Features
 
