@@ -77,7 +77,7 @@ After running the script, a CSV file will be generated with the following column
 ## Disclaimers
 
 - **YouTube API Limitations**: The script may hit request quotas set by the YouTube Data API, so consider monitoring your API usage.
-- **Use of Dislike Data**: The `Return YouTube Dislike API` is a third-party service that retrieves dislike data for videos. This API **scrapes YouTube data**, which violates YouTube's terms of service. Using this API **is illegal**, and the author of this script does not endorse or encourage its use.
+- **Use of Dislike Data**: The `Return YouTube Dislike API` is a third-party service that retrieves dislike data for videos.
 
 ## Limitations
 
