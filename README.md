@@ -40,7 +40,7 @@ To run this script, you need:
    - Navigate to the directory containing the script.
    - Run the script using the command:
      ```bash
-     python script_name.py
+     python main.py
      ```
    - Enter your **YouTube API key** and the **playlist ID** when prompted.
 
