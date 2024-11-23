@@ -2,9 +2,8 @@ import json
 import urllib.request
 from datetime import datetime
 
-api_key = input("Enter your YouTube API key:")
+api_key = input("Enter your YouTube API key: ")
 
-# ID плейлиста
 playlist_id = input("Enter playlist id: ")
 
 
